@@ -3,7 +3,7 @@
 
 A simple and powerful Python script to generate strong, customizable passwords.
 
-##\ 💡 Features
+ 💡 Features
 
 - User-defined password length
 - Guaranteed mix of:
@@ -15,9 +15,9 @@ A simple and powerful Python script to generate strong, customizable passwords.
 - Copies password to clipboard (with your permission)
 - Smart input handling and clean user interface (CLI)
 
-## 🚀 Getting Started
+  Getting Started
 
-# Prerequisites
+ Prerequisites
 
 - Python 3.x
 - `pyperclip` module (for clipboard copy)
